@@ -29,8 +29,8 @@
 🖼️ This repository is made to contain an online store for the sale of profile images for use in a future international integrated forum with a modern and professional design. 
 
 <div align="center">
-  <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
-  <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
+  <img alt="Main Banner" src="https://github.com/Drackass/Fanrum-Profile-Shop/blob/main/ForGithub/home.png" width="350px">
+  <img alt="Main Banner" src="https://github.com/Drackass/Fanrum-Profile-Shop/blob/main/ForGithub/profile.png" width="350px">
 </div>
 
 # 📚 Table of contents
